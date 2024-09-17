@@ -1,0 +1,5 @@
+E:\LuuDuLieuSV\HuynhTheVinh\HuynhTheVinh_20001210660_Buoi02\Component\bin\Debug\Component.dll
+E:\LuuDuLieuSV\HuynhTheVinh\HuynhTheVinh_20001210660_Buoi02\Component\bin\Debug\Component.pdb
+E:\LuuDuLieuSV\HuynhTheVinh\HuynhTheVinh_20001210660_Buoi02\Component\obj\Debug\Component.dll
+E:\LuuDuLieuSV\HuynhTheVinh\HuynhTheVinh_20001210660_Buoi02\Component\obj\Debug\Component.pdb
+E:\LuuDuLieuSV\HuynhTheVinh\HuynhTheVinh_20001210660_Buoi02\Component\obj\Debug\Component.csprojResolveAssemblyReference.cache

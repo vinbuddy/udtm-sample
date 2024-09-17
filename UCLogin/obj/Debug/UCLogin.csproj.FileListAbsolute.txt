@@ -1,0 +1,9 @@
+E:\LuuDuLieuSV\HuynhTheVinh\HuynhTheVinh_20001210660_Buoi02\UCLogin\bin\Debug\UCLogin.dll
+E:\LuuDuLieuSV\HuynhTheVinh\HuynhTheVinh_20001210660_Buoi02\UCLogin\bin\Debug\UCLogin.pdb
+E:\LuuDuLieuSV\HuynhTheVinh\HuynhTheVinh_20001210660_Buoi02\UCLogin\obj\Debug\UCLogin.csproj.GenerateResource.Cache
+E:\LuuDuLieuSV\HuynhTheVinh\HuynhTheVinh_20001210660_Buoi02\UCLogin\obj\Debug\UCLogin.dll
+E:\LuuDuLieuSV\HuynhTheVinh\HuynhTheVinh_20001210660_Buoi02\UCLogin\obj\Debug\UCLogin.pdb
+E:\LuuDuLieuSV\HuynhTheVinh\HuynhTheVinh_20001210660_Buoi02\UCLogin\obj\Debug\UCLogin.Login.resources
+E:\LuuDuLieuSV\HuynhTheVinh\HuynhTheVinh_20001210660_Buoi02\UCLogin\bin\Debug\Library.dll
+E:\LuuDuLieuSV\HuynhTheVinh\HuynhTheVinh_20001210660_Buoi02\UCLogin\bin\Debug\Library.pdb
+E:\LuuDuLieuSV\HuynhTheVinh\HuynhTheVinh_20001210660_Buoi02\UCLogin\obj\Debug\UCLogin.csprojResolveAssemblyReference.cache
